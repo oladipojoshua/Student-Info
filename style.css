@@ -1,0 +1,14 @@
+button{
+    margin-left: 500px; 
+
+}
+
+@media screen and (max-width: 475px){
+        button{
+            margin-left: 10px;
+        }
+
+        #first{
+            /* width: 100%; */
+        }
+}
